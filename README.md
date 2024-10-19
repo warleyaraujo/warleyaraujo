@@ -25,6 +25,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![Codewars](https://www.codewars.com/users/warleyaraujo/badges/small)
+<!-- Link para seu perfil Codewars -->
+<a href="https://www.codewars.com/users/warleyaraujo">
+  <img src="https://www.codewars.com/users/warleyaraujo/badges/small" alt="Codewars badge">
+</a>
 
 ![Snake animation](https://github.com/warleyaraujo/warleyaraujo/blob/output/github-contribution-grid-snake.svg)
